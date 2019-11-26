@@ -25,9 +25,8 @@ img {
     border-style: none;
     transition: .3s ease;
 }
-.logo a{
-    font-size: 40px;
-    font-weight: 900;
+.logo a img{
+    max-width: 100px;
 }
 nav{
     padding-top: 2em;
